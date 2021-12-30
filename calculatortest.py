@@ -88,4 +88,13 @@ button_eql.grid(row=6, column=1)
 
 
 
+
+
+
+
+
+
+
+
+
 root.mainloop()
